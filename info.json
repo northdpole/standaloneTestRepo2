@@ -1,4 +1,4 @@
-
+{
 "info" : {
     "name":"northdpole/standaloneTestRepo2",
     "repository":"https://github.com/northdpole/standaloneTestRepo2",
@@ -7,4 +7,4 @@
     "example_usage":"kubectl delete po --all --all-namespaces",
     "output_type":["destruction"]
     }
-    
+}
